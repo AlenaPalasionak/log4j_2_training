@@ -1,0 +1,5 @@
+2022-01-13 16:24:39.808 [main] DEBUG org.example.App - We've just greeted the user!
+2022-01-13 16:24:39.811 [main] INFO  org.example.App - We've just greeted the user!
+2022-01-13 16:24:39.812 [main] WARN  org.example.App - We've just greeted the user!
+2022-01-13 16:24:39.812 [main] ERROR org.example.App - We've just greeted the user!
+2022-01-13 16:24:39.812 [main] FATAL org.example.App - We've just greeted the user!
